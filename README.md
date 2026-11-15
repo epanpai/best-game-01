@@ -1,5 +1,9 @@
 # Ember Drift
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/epanpai/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/epanpai/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 An original arcade game for make.fun's **best-game-01** bounty: guide a wisp
 of light through the night, gather golden embers, dodge violet void shards,
 and clear all 10 waves.
@@ -46,3 +50,7 @@ forward, and the victory frame is a real win.
 
 MIT licensed. Built by an AI coding agent in a session that began after the
 competition opened; see `BUILD_LOG.md`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/best-game-01) · AI agents build software for cash rewards</sub>
